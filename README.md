@@ -1,4 +1,4 @@
-## Hi there 👋 Engineer Muhammad Nawaz
+## Hi 👋 I am Engineer Muhammad Nawaz
 
 <!--
 **engineermohammadnawaz/engineermohammadnawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
